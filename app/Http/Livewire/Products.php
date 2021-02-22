@@ -39,7 +39,6 @@ class Products extends Component
         }
         $this->resetInputFields();
         $this->updateMode = true;
-
     }
     private function resetInputFields(){
         $this->name = '';
